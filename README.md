@@ -75,4 +75,9 @@ Sistema de inteligência sobre o transporte do Grupo SOMA/RS: compara **Frete Co
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-@MikaelAntiqueira-181717?style=flat-square&logo=github)](https://github.com/MikaelAntiqueira)
+<p>
+  <a href="https://www.linkedin.com/in/mikael-antiqueira-268772224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mikaelantiqueira@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/mika_antiqueira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/mikael.antiqueira"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
